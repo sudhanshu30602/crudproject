@@ -1,0 +1,14 @@
+body{
+    background-color: #4b778d;
+}
+
+center{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 100px;
+    margin-left: 40px;
+}
+form{
+    background-color: whitesmoke;
+    margin-left: -20px;
+}
